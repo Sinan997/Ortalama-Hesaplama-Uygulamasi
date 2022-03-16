@@ -1,6 +1,6 @@
-# ortalama_hesaplama2
+# ortalama_hesaplama
 
-A new Flutter project.
+kopya proje
 
 ## Getting Started
 
